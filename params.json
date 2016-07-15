@@ -1,5 +1,5 @@
 {
-  "name": "lasclocker.GitHub.io",
+  "name": "lasclocker",
   "tagline": "Better Code, Better Life",
   "body": "### [search-data-source](https://lasclocker.github.io/search-data-source/)\r\n利用Hive, Sqoop, J2EE, Quartz 定时自动化从xdcs取数，重要基础数据写入Excel并发送邮件，其他数据导入Mysql表.\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
